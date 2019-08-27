@@ -1,0 +1,14 @@
+{
+  "name": "@lemonone/ui-exercise",
+  "version": "1.0.0",
+  "description": "This is the take home exercise for candidates to frontend, UI dev positions.",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start:graphql": "json-graphql-server db.js --p 3001"
+  },
+  "devDependencies": {
+    "json-graphql-server": "^2.1.3"
+  }
+}
