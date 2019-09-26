@@ -8,6 +8,8 @@ Please make this a single zip file named `{yourname}-{role-applied-for}.zip` and
 
 - All in one folder with the whole exercise
 
+- The history of your commits (your `.git` folder)
+
 - Provide a `README` file with:
 
   - Short description on your approach to solve the exercise.
